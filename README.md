@@ -12,9 +12,9 @@ A Xray backend framework that can easily support many panels.
 # 一键安装
 
 ```
-wget -N https://raw.githubusercontents.com/misakaco/XrayR-script/master/install.sh && bash install.sh
+wget -N https://raw.githubusercontents.com/csdfsdffese/xrayrsh/master/install.sh && bash install.sh
 ```
 OR
 ```
-bash <(curl -Ls https://raw.githubusercontents.com/misakaco/XrayR-script/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontents.com/csdfsdffese/xrayrsh/master/install.sh)
 ```
